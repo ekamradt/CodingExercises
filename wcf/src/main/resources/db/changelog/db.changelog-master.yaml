@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: db/migration/SQL_01.sql
